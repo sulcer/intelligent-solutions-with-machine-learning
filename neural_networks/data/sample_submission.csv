@@ -1,0 +1,4 @@
+image,predicted_class
+test_image_0.jpg,Paper
+test_image_1.jpg,Rock
+test_image_2.jpg,Scissors
